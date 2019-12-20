@@ -9,6 +9,9 @@ through different websites. Users can compare the items according to the price a
 make a better choice.
 
 
+
+
+
 Tools Used
 
 Express.js for the back-end
@@ -20,6 +23,11 @@ Puppeteer (Node library) for web-scraping
 Chart.js (Javascript library) for graphs(price-analysis)
 
 Materialize.css for styling
+
+
+
+
+
 
 
 
@@ -36,6 +44,10 @@ submitting feedback form file: code/controller/formController
 database connection: code/models/db
 
 form document: code/models/form.model
+
+
+
+
 
 
 Client running on port number 3000
