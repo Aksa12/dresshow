@@ -1,0 +1,11 @@
+.chart
+{
+	margin:50px;
+}
+.box
+{
+	width:300px;
+	margin:30px;
+	justify-content: center;
+	text-align: center;
+}

@@ -1,0 +1,24 @@
+.message
+{
+	color:white;
+	font-size:15px !important;
+	width:200px;
+	background-color:lightCoral;
+	border: 3px outset lightCoral;
+}
+
+.form
+{
+	color:lightCoral;
+	margin-top:30px;
+}
+
+.button
+{
+	background-color: lightCoral;
+}
+.radio::after
+{
+	background-color: lightCoral !important;
+	border-color:lightCoral !important;
+}

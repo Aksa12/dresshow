@@ -1,0 +1,19 @@
+.nav
+{
+	letter-spacing: 2px;
+	font-size:20px !important;
+}
+.logo
+{
+letter-spacing: 2px;	
+text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5), 2px 2px 2px rgba(206,89,55,0);
+color:#d9d9d9 !important;
+font-size:30px !important;
+
+}
+.icon
+{
+	margin-left: 10px;
+	margin-top:2px;
+	font-size: 30px !important;
+}
