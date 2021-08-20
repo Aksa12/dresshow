@@ -1,0 +1,26 @@
+.item
+{
+	margin: 25px 10px !important;
+	background-color: beige !important;
+}
+.itemname
+{
+	background-color:lightCoral;
+	color:white;
+	text-transform: uppercase;
+	width: 400px;
+	height:70px;
+	font-size:16px !important;
+	overflow:hidden !important;
+}
+.itembrand
+{
+	color:lightCoral;
+	text-transform: capitalize;
+	font-size:20px;
+}
+.itemprice
+{
+	color:lightCoral;
+	font-size:20px;
+}

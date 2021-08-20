@@ -1,0 +1,21 @@
+.welcome
+{
+	color:white;
+	padding:50px;
+	text-align: center;
+	background-color: grey;
+	background-image: url('../img/imgbg1.jpg');
+	background-size: auto;
+	font-weight: bold;
+	
+}
+.welcomeh1
+{
+	margin-top: 0px;
+	padding:20px;
+	font-size: 7em;
+}
+.welcomeh3
+{
+	padding:20px;
+}
